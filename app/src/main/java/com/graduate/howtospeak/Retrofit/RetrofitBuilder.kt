@@ -8,7 +8,7 @@ object RetrofitBuilder {
 
     init {
         val retrofit = Retrofit.Builder()
-            .baseUrl("http://13.124.114.1/")
+            .baseUrl("http://your web path")
             .addConverterFactory(GsonConverterFactory.create())
             .build()
 
