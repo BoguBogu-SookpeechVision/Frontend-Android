@@ -2,5 +2,5 @@
 <paths xmlns:android="http://schemas.android.com/apk/res/android">
     <external-path
         name="my_external_image"
-        path="Android/data/com.graduate.howtospeak/files/Pictrues" />
+        path="Android/data/your Project/files/Pictrues" />
 </paths>
