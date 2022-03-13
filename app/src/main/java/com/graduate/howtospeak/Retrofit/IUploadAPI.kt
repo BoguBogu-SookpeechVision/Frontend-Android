@@ -8,7 +8,7 @@ import retrofit2.http.*
 
 open interface IUploadAPI {
     @Multipart
-    @POST("/vowel_recognition/")
+    @POST("path")
     fun post_image(
         @Part imageFile: MultipartBody.Part
     ) : Call<String>
