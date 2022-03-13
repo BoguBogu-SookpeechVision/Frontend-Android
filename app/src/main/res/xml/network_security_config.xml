@@ -4,5 +4,3 @@
         <base-config cleartextTrafficPermitted="true"/>
 
     </network-security-config>
-
-
